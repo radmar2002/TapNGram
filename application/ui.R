@@ -59,9 +59,9 @@ shinyUI(
                                           br(),
                                           "Author: ",a("Marius Radu", href = "mailto:radu_marius_florin@yahoo.com"),
                                           br(),
-                                          a("GitHub Source Code", href = "https://github.com/radmar2002/TapNGram"),
+                                          a("GitHub Source Code", href = "https://github.com/radmar2002/TapNGram/"),
                                           br(),
-                                          "Date: 02 December 2014"
+                                          "Date: 27 October 2014"
                                    )
                            )
                             
